@@ -48,3 +48,5 @@ function calculateDays() {
     document.getElementById('error').style.display = 'none';
   });
 
+  
+
